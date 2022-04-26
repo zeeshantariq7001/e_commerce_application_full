@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "499281885776",
+    "project_id": "shop-biz-e-commerce-5faca",
+    "storage_bucket": "shop-biz-e-commerce-5faca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499281885776:android:29ac60eb73f9383e33ef55",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_application_full"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499281885776-ov8frioo7hkjmfth9585cil7v31u8v2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_commerce_application_full",
+            "certificate_hash": "baf8b5846bb73c69e199f0b98e1bb3deae611eb2"
+          }
+        },
+        {
+          "client_id": "499281885776-05ods7794lhp1r0rgln91s71nablbf6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADYSjoOjGqH_UDNhlThanUppWqrEGK7FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499281885776-05ods7794lhp1r0rgln91s71nablbf6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
